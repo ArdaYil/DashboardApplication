@@ -24,7 +24,7 @@ import {
 } from "./pages";
 
 export default function App() {
-  const activeMenu = false;
+  const activeMenu = true;
 
   return (
     <>
