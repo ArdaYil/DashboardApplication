@@ -1,4 +1,4 @@
-export { default as Ecommerce } from "./ECommerce";
+export { default as ECommerce } from "./ECommerce";
 export { default as Kanban } from "./Kanban";
 export { default as Orders } from "./Orders";
 export { default as Employees } from "./Employees";
@@ -10,7 +10,7 @@ export { default as Area } from "./Charts/Area";
 export { default as Bar } from "./Charts/Bar";
 export { default as ColorMapping } from "./Charts/ColorMapping";
 export { default as Financial } from "./Charts/Financial";
-export { default as Line } from "./Charts/LineChart";
-export { default as Pie } from "./Charts/PieChart";
+export { default as LineChart } from "./Charts/LineChart";
+export { default as PieChart } from "./Charts/PieChart";
 export { default as Pyramid } from "./Charts/Pyramid";
 export { default as Stacked } from "./Charts/Stacked";
